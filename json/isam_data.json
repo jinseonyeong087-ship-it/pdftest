@@ -1,0 +1,26 @@
+[
+  {
+    "port_id": "P001",
+    "name": "Busan",
+    "type": "선적",
+    "cargo": "자동차"
+  },
+  {
+    "port_id": "P002",
+    "name": "Incheon",
+    "type": "하역",
+    "cargo": "곡물"
+  },
+  {
+    "port_id": "P003",
+    "name": "Gwangyang",
+    "type": "선적",
+    "cargo": "철강"
+  },
+  {
+    "port_id": "P004",
+    "name": "Ulsan",
+    "type": "하역",
+    "cargo": "원유"
+  }
+]
